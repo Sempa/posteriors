@@ -3,22 +3,22 @@
     "path": "~/GitHub/posteriors/posteriors/R/posteriors.R",
     "project_path": "R/posteriors.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "832377650",
     "contents": "",
     "dirty": false,
     "created": 1631109503250.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
-        "cursorPosition": "114,52",
-        "scrollLine": "114"
+        "cursorPosition": "191,35",
+        "scrollLine": "162"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631112041,
+    "lastKnownWriteTime": 1631200152,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631112041267,
+    "last_content_update": 1631200152129,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,25 +1,25 @@
 {
-    "id": "15B2218E",
-    "path": "~/GitHub/posteriors/posteriors/man/pr_t_fun_logit_cubic.Rd",
-    "project_path": "man/pr_t_fun_logit_cubic.Rd",
+    "id": "D9578B9C",
+    "path": "~/GitHub/posteriors/posteriors/man/nearest_numbers.Rd",
+    "project_path": "man/nearest_numbers.Rd",
     "type": "r_doc",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1631110072476.0,
+    "created": 1631110207600.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 4,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "0,0",
+        "cursorPosition": "65,1",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631110117,
+    "lastKnownWriteTime": 1631197719,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631110117544,
+    "last_content_update": 1631197719581,
     "read_only": false,
     "read_only_alternatives": []
 }

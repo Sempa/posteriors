@@ -3,7 +3,7 @@
     "path": "~/GitHub/posteriors/posteriors/man/likelihood_param_quad_function.Rd",
     "project_path": "man/likelihood_param_quad_function.Rd",
     "type": "r_doc",
-    "hash": "3366361423",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1631110232741.0,
@@ -11,15 +11,15 @@
     "relative_order": 5,
     "properties": {
         "tempName": "Untitled2",
-        "cursorPosition": "39,0",
-        "scrollLine": "30"
+        "cursorPosition": "42,41",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631112666,
+    "lastKnownWriteTime": 1631198120,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631112666777,
+    "last_content_update": 1631198120958,
     "read_only": false,
     "read_only_alternatives": []
 }

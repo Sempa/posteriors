@@ -48,6 +48,7 @@ The function uses the P_r(t) data generated for the assay (loaded as part of the
 %% ~put references to the literature/web site here ~
 }
 \author{
+Joseph B. Sempa
 %%  ~~who you are~~
 }
 \note{

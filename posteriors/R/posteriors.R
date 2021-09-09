@@ -90,7 +90,7 @@ pr_t_fun_loglog_cubic <- function(data_set, ODn_step, t_since_inf) {
   return(pr_t[-1])
 }
 
-#' Generates a vector of numbers on either side of and closest to the
+#' Generates a vector of nearest numbers on either side of and closest to the
 #' target ODn, which is used to generate Likelihood
 #' @param value_x Patient ODn as measurement, after the first HIV positive test.
 #' @param vec_y A vector of ODns from 0.01 to 4 step size 0.01
@@ -188,5 +188,5 @@ likelihood_fun <- function(param_datset, ODn, t_since_ln) {
 # saveRDS(pr_t_logit_cubic, "pr_t_logit_evaluations.rds")
 # saveRDS(pr_t_loglog_cubic, "pr_t_loglog_evaluations.rds")
 
-pr_t_logit_cubic <- readRDS("pr_t_logit_evaluations.rds")
-# pr_t_loglog_cubic <- readRDS("pr_t_loglog_evaluations.rds")
+pr_t_logit_cubic <- readRDS("data/pr_t_logit_evaluations.rds")
+pr_t_loglog_cubic <- readRDS("data/pr_t_loglog_evaluations.rds")
