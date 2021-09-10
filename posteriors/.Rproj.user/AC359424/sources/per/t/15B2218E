@@ -1,25 +1,25 @@
 {
-    "id": "5DA8FBBA",
-    "path": "~/GitHub/posteriors/posteriors/man/pr_t_fun_loglog_cubic.Rd",
-    "project_path": "man/pr_t_fun_loglog_cubic.Rd",
+    "id": "15B2218E",
+    "path": "~/GitHub/posteriors/posteriors/man/pr_t_fun_logit_cubic.Rd",
+    "project_path": "man/pr_t_fun_logit_cubic.Rd",
     "type": "r_doc",
-    "hash": "0",
+    "hash": "609815102",
     "contents": "",
     "dirty": false,
-    "created": 1631110164387.0,
+    "created": 1631110072476.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
         "cursorPosition": "58,2",
-        "scrollLine": "37"
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1631199880,
+    "lastKnownWriteTime": 1631199877,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1631199880672,
+    "last_content_update": 1631199877847,
     "read_only": false,
     "read_only_alternatives": []
 }
